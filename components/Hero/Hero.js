@@ -80,7 +80,7 @@ const Hero = () => {
                   </a>
                 </div>
                 <div className="rounded-full shadow-lg shadow-gray-600 bg-white p-5 cursor-pointer hover:scale-110 ease-in duration-300">
-                  <a href="tel:7383556320" target={"_blank"} rel={"noreferrer"}>
+                  <a href="tel:7383556329" target={"_blank"} rel={"noreferrer"}>
                     <SiWhatsapp />
                   </a>
                 </div>
