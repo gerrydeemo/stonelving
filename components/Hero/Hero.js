@@ -33,7 +33,7 @@ const Hero = () => {
               initial={{ opacity: 0 }}
               whileInView={{ y: [-50, 0], opacity: 3 }}
             >
-              <h1 className="  font-bold text-white text-6xl sm:text-3xl md:text-4xl lg:text-5xl ">
+              <h1 className="  font-bold text-white text-4xl 4xl:text-4xl 3xl:text-4xl 2xl:text-3xl">
                 J Livingstone Landscaping
               </h1>
               <h2 className="text-white  py-3">
